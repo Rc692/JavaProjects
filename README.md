@@ -132,5 +132,5 @@ Este repositório foi criado para registrar minha evolução nos estudos de **Ja
 
 ## 📄 License / Licença
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [MIT License](LICENSE).
 

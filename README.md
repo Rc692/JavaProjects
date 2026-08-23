@@ -1,145 +1,172 @@
 # ☕ Java Projects
 
-A repository dedicated to studying, practicing, and developing projects using **Java**.
+A collection of projects developed using **Java**, covering programming
+fundamentals, object-oriented programming, and software development.
 
-This repository contains exercises and small projects developed during my learning journey, with the goal of practicing fundamental programming concepts and gradually improving my Java development skills.
+This repository brings together exercises, experiments, and small projects
+developed and maintained during my free time.
 
 ## 📚 Projects
 
 ### 🏦 Bank Account
 
-An exercise developed to practice basic Java concepts such as user input, variables, methods, and data organization.
+A project developed to practice basic Java concepts such as user input,
+variables, methods, and data organization.
 
 ### 🔄 Flow Control
 
-A project focused on practicing control structures and programming logic, including conditional statements, loops, and repetition structures.
+A project focused on control structures and programming logic, including
+conditional statements and repetition structures.
 
 ### 📺 Smart TV System
 
-An exercise developed to practice **Object-Oriented Programming (OOP)** concepts, working with classes, attributes, and methods.
+A project developed to practice **Object-Oriented Programming (OOP)**
+concepts, working with classes, attributes, and methods.
 
 ### 🔢 Types and Variables
 
-Examples and exercises designed to practice Java data types, variable declarations, operations, and fundamental language concepts.
+Examples and exercises designed to practice Java data types, variable
+declarations, operations, and fundamental language concepts.
 
 ## 🛠️ Technologies
 
-* Java
-* Object-Oriented Programming (OOP)
-* Git
-* GitHub
+- Java
+- Object-Oriented Programming (OOP)
+- Git
+- GitHub
 
 ## 🎯 Purpose
 
-This repository is part of my learning journey in **Java and software development**.
+This repository contains projects developed to practice, experiment with,
+and improve my Java and software development skills.
 
-The projects are developed as a way to practice what I learn and will be updated as new concepts and skills are acquired.
+The projects are developed and maintained during my free time and may
+evolve over time with new features, improvements, and corrections.
 
 ## 📈 In Development
 
-This repository is constantly evolving and is developed **during my free time**, following my progress in learning Java.
+This repository is constantly evolving as I continue learning and
+developing new projects.
 
-New projects, exercises, and concepts will be added as I continue my studies.
+Future updates may include:
 
-Some topics that may be added in the future include:
+- Data Structures
+- Exception Handling
+- Collections
+- Object-Oriented Programming
+- File Handling
+- Databases
+- APIs
+- Spring Boot
+- Other Java-related projects
 
-* Data Structures
-* Exception Handling
-* Collections
-* Object-Oriented Programming
-* File Handling
-* Databases
-* APIs
-* Spring Boot
+## ⚠️ Disclaimer
+
+These projects may contain errors, limitations, or implementations that
+can be improved.
+
+As I continue learning and gaining experience, I intend to review and
+improve these projects during my free time.
+
+Future updates may include bug fixes, improvements, new features, and
+changes to existing implementations.
 
 ## 👨‍💻 Author
 
 **Rc692**
-
-This repository was created to document my progress while learning **Java and software development**.
-
 ---
 
-⭐ If you find this project useful for your studies, feel free to follow its progress.
+⭐ If you find this repository useful, feel free to follow its evolution.
 
 ---
 
 # 🇧🇷 Projetos Java
 
-Repositório destinado ao estudo, prática e desenvolvimento de projetos utilizando **Java**.
+Uma coleção de projetos desenvolvidos utilizando **Java**, abrangendo
+fundamentos de programação, programação orientada a objetos e
+desenvolvimento de software.
 
-Aqui estão reunidos exercícios e pequenos projetos desenvolvidos durante meu aprendizado da linguagem, com o objetivo de praticar conceitos fundamentais de programação e evoluir gradualmente no desenvolvimento de aplicações Java.
+Este repositório reúne exercícios, experimentos e pequenos projetos
+desenvolvidos e mantidos nas horas livres.
 
-## 📚 Conteúdo
+## 📚 Projetos
 
 ### 🏦 Conta Banco
 
-Exercício desenvolvido para praticar conceitos básicos de Java, como entrada de dados, variáveis, métodos e organização de informações.
+Projeto desenvolvido para praticar conceitos básicos de Java, como
+entrada de dados, variáveis, métodos e organização de informações.
 
 ### 🔄 Controle de Fluxo
 
-Projeto voltado ao estudo de estruturas de controle e lógica de programação, incluindo condições e estruturas de repetição.
+Projeto voltado para estruturas de controle e lógica de programação,
+incluindo condições e estruturas de repetição.
 
 ### 📺 Sistema Smart TV
 
-Exercício desenvolvido para praticar conceitos de **Programação Orientada a Objetos (POO)**, trabalhando com classes, atributos e métodos.
+Projeto desenvolvido para praticar conceitos de **Programação Orientada
+a Objetos (POO)**, trabalhando com classes, atributos e métodos.
 
 ### 🔢 Tipos e Variáveis
 
-Exemplos e exercícios para praticar os principais tipos de dados, declaração de variáveis, operações e conceitos fundamentais da linguagem Java.
+Exemplos e exercícios desenvolvidos para praticar os principais tipos de
+dados do Java, declaração de variáveis, operações e conceitos
+fundamentais da linguagem.
 
 ## 🛠️ Tecnologias
 
-* Java
-* Programação Orientada a Objetos (POO)
-* Git
-* GitHub
+- Java
+- Programação Orientada a Objetos (POO)
+- Git
+- GitHub
 
 ## 🎯 Objetivo
 
-Este repositório faz parte do meu processo de aprendizado em **Java e desenvolvimento de software**.
+Este repositório reúne projetos desenvolvidos para praticar,
+experimentar e aprimorar meus conhecimentos em **Java e desenvolvimento
+de software**.
 
-Os projetos são desenvolvidos como forma de prática e serão atualizados conforme novos conceitos forem estudados e novos conhecimentos forem adquiridos.
+Os projetos são desenvolvidos e mantidos nas horas livres e podem
+evoluir ao longo do tempo com novas funcionalidades, melhorias e
+correções.
 
 ## 📈 Em desenvolvimento
 
-Este repositório está em constante evolução e é desenvolvido **nas horas livres**, acompanhando meu progresso nos estudos de Java.
+Este repositório está em constante evolução conforme continuo aprendendo
+e desenvolvendo novos projetos.
 
-Novos projetos, exercícios e conceitos serão adicionados ao longo do aprendizado.
+Futuras atualizações poderão incluir:
 
-Entre os próximos temas que poderão ser incorporados estão:
+- Estruturas de dados
+- Tratamento de exceções
+- Collections
+- Programação Orientada a Objetos
+- Manipulação de arquivos
+- Banco de dados
+- APIs
+- Spring Boot
+- Outros projetos relacionados a Java
 
-* Estruturas de dados
-* Tratamento de exceções
-* Collections
-* Programação Orientada a Objetos
-* Manipulação de arquivos
-* Banco de dados
-* APIs
-* Spring Boot
+## ⚠️ Observação
+
+Estes projetos podem conter erros, limitações ou implementações que
+podem ser aprimoradas.
+
+Conforme continuo aprendendo e adquirindo experiência, pretendo revisar
+e melhorar estes projetos durante minhas horas livres.
+
+Futuras atualizações poderão incluir correções de erros, melhorias,
+novas funcionalidades e alterações nas implementações existentes.
 
 ## 👨‍💻 Autor
 
 **Rc692**
 
-Este repositório foi criado para registrar minha evolução nos estudos de **Java e desenvolvimento de software**.
-
 ---
 
-⭐ Se este projeto for útil para seus estudos, fique à vontade para acompanhar sua evolução.
+⭐ Se este repositório for útil, fique à vontade para acompanhar sua evolução.
 
 ---
-
-## ⚠️ Disclaimer / Observação
-
-🇺🇸 This is a study project and may contain errors or limitations.
-Improvements and corrections may be made in future updates as I continue learning.
-
-🇧🇷 Este é um projeto de estudo e pode conter erros ou limitações.
-Melhorias e correções poderão ser realizadas em futuras atualizações conforme continuo
-meus estudos.
 
 ## 📄 License / Licença
 
 This project is licensed under the [MIT License](LICENSE).
-

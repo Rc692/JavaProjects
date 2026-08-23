@@ -130,6 +130,15 @@ Este repositório foi criado para registrar minha evolução nos estudos de **Ja
 
 ---
 
+## ⚠️ Disclaimer / Observação
+
+🇺🇸 This is a study project and may contain errors or limitations.
+Improvements and corrections may be made in future updates as I continue learning.
+
+🇧🇷 Este é um projeto de estudo e pode conter erros ou limitações.
+Melhorias e correções poderão ser realizadas em futuras atualizações conforme continuo
+meus estudos.
+
 ## 📄 License / Licença
 
 This project is licensed under the [MIT License](LICENSE).

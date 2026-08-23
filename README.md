@@ -1,32 +1,48 @@
 # ☕ Java Projects
 
-A collection of projects developed using **Java**, covering programming
-fundamentals, object-oriented programming, and software development.
+Projetos e exercícios desenvolvidos em **Java** para aprendizado,
+prática e experimentação.
 
-This repository brings together exercises, experiments, and small projects
-developed and maintained during my free time.
+Desenvolvido nas minhas horas livres, com foco em aprender e aprimorar
+conhecimentos em programação e desenvolvimento de software.
+
+---
+
+# 🇺🇸 English
+
+## ☕ Java Projects
+
+A collection of **Java** projects and exercises created for learning,
+practice, and experimentation.
+
+Developed in my free time, with a focus on learning and improving my
+programming and software development skills.
+
+---
 
 ## 📚 Projects
 
 ### 🏦 Bank Account
 
-A project developed to practice basic Java concepts such as user input,
-variables, methods, and data organization.
+A project created to practice basic Java concepts such as variables,
+methods, user input, and data organization.
 
 ### 🔄 Flow Control
 
-A project focused on control structures and programming logic, including
-conditional statements and repetition structures.
+Projects focused on programming logic, conditional statements, and
+repetition structures.
 
 ### 📺 Smart TV System
 
-A project developed to practice **Object-Oriented Programming (OOP)**
-concepts, working with classes, attributes, and methods.
+A project created to practice **Object-Oriented Programming (OOP)**
+using classes, attributes, and methods.
 
 ### 🔢 Types and Variables
 
-Examples and exercises designed to practice Java data types, variable
-declarations, operations, and fundamental language concepts.
+Examples and exercises focused on Java data types, variables,
+operations, and fundamental language concepts.
+
+---
 
 ## 🛠️ Technologies
 
@@ -35,82 +51,77 @@ declarations, operations, and fundamental language concepts.
 - Git
 - GitHub
 
-## 🎯 Purpose
-
-This repository contains projects developed to practice, experiment with,
-and improve my Java and software development skills.
-
-The projects are developed and maintained during my free time and may
-evolve over time with new features, improvements, and corrections.
+---
 
 ## 📈 In Development
 
 This repository is constantly evolving as I continue learning and
 developing new projects.
 
-Future updates may include:
+Future projects may include:
 
 - Data Structures
 - Exception Handling
 - Collections
-- Object-Oriented Programming
 - File Handling
 - Databases
 - APIs
 - Spring Boot
-- Other Java-related projects
+- Other Java projects
+
+---
+
+## 🎯 About
+
+In my free time, I develop projects to practice programming, learn new
+concepts, and turn what I learn into practical examples.
+
+---
 
 ## ⚠️ Disclaimer
 
-These projects may contain errors, limitations, or implementations that
-can be improved.
+These projects are primarily intended for learning and experimentation.
 
-As I continue learning and gaining experience, I intend to review and
-improve these projects during my free time.
-
-Future updates may include bug fixes, improvements, new features, and
-changes to existing implementations.
-
-## 👨‍💻 Author
-
-**Rc692**
----
-
-⭐ If you find this repository useful, feel free to follow its evolution.
+Some implementations may contain errors or limitations and may be
+improved over time.
 
 ---
 
-# 🇧🇷 Projetos Java
+# 🇧🇷 Português
 
-Uma coleção de projetos desenvolvidos utilizando **Java**, abrangendo
-fundamentos de programação, programação orientada a objetos e
-desenvolvimento de software.
+## ☕ Projetos Java
 
-Este repositório reúne exercícios, experimentos e pequenos projetos
-desenvolvidos e mantidos nas horas livres.
+Uma coleção de **projetos e exercícios em Java** desenvolvidos para
+aprendizado, prática e experimentação.
+
+Desenvolvido nas minhas horas livres, com foco em aprender e aprimorar
+meus conhecimentos em programação e desenvolvimento de software.
+
+---
 
 ## 📚 Projetos
 
 ### 🏦 Conta Banco
 
 Projeto desenvolvido para praticar conceitos básicos de Java, como
-entrada de dados, variáveis, métodos e organização de informações.
+variáveis, métodos, entrada de dados e organização de informações.
 
 ### 🔄 Controle de Fluxo
 
-Projeto voltado para estruturas de controle e lógica de programação,
-incluindo condições e estruturas de repetição.
+Projetos voltados para lógica de programação, estruturas condicionais
+e estruturas de repetição.
 
 ### 📺 Sistema Smart TV
 
 Projeto desenvolvido para praticar conceitos de **Programação Orientada
-a Objetos (POO)**, trabalhando com classes, atributos e métodos.
+a Objetos (POO)** utilizando classes, atributos e métodos.
 
 ### 🔢 Tipos e Variáveis
 
-Exemplos e exercícios desenvolvidos para praticar os principais tipos de
-dados do Java, declaração de variáveis, operações e conceitos
-fundamentais da linguagem.
+Exemplos e exercícios voltados para tipos de dados, variáveis, operações
+e conceitos fundamentais do Java.
+
+---
 
 ## 🛠️ Tecnologias
 
@@ -119,43 +130,42 @@ fundamentais da linguagem.
 - Git
 - GitHub
 
-## 🎯 Objetivo
-
-Este repositório reúne projetos desenvolvidos para praticar,
-experimentar e aprimorar meus conhecimentos em **Java e desenvolvimento
-de software**.
-
-Os projetos são desenvolvidos e mantidos nas horas livres e podem
-evoluir ao longo do tempo com novas funcionalidades, melhorias e
-correções.
+---
 
 ## 📈 Em desenvolvimento
 
 Este repositório está em constante evolução conforme continuo aprendendo
 e desenvolvendo novos projetos.
 
-Futuras atualizações poderão incluir:
+Futuros projetos poderão incluir:
 
 - Estruturas de dados
 - Tratamento de exceções
 - Collections
-- Programação Orientada a Objetos
 - Manipulação de arquivos
 - Banco de dados
 - APIs
 - Spring Boot
-- Outros projetos relacionados a Java
+- Outros projetos em Java
+
+---
+
+## 🎯 Sobre o projeto
+
+No meu tempo livre, desenvolvo projetos para praticar programação,
+aprender novos conceitos e transformar o que aprendo em exemplos
+práticos.
+
+---
 
 ## ⚠️ Observação
 
-Estes projetos podem conter erros, limitações ou implementações que
-podem ser aprimoradas.
+Estes projetos têm como principal objetivo aprendizado e experimentação.
 
-Conforme continuo aprendendo e adquirindo experiência, pretendo revisar
-e melhorar estes projetos durante minhas horas livres.
+Algumas implementações podem conter erros ou limitações e poderão ser
+aprimoradas ao longo do tempo.
 
-Futuras atualizações poderão incluir correções de erros, melhorias,
-novas funcionalidades e alterações nas implementações existentes.
+---
 
 ## 👨‍💻 Autor
 
@@ -163,7 +173,8 @@ novas funcionalidades e alterações nas implementações existentes.
 
 ---
 
-⭐ Se este repositório for útil, fique à vontade para acompanhar sua evolução.
+⭐ Se o projeto for útil ou interessante, fique à vontade para deixar
+uma estrela e acompanhar sua evolução.
 
 ---
 

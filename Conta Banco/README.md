@@ -23,8 +23,6 @@ A Java project to simulate basic banking operations, such as creating an account
 ```bash
 git clone https://github.com/Rc692/JavaProjects.git
 
-
-
 # 🏦 Conta Banco
 
 Um projeto em Java para simular operações bancárias básicas, como criação de conta, depósito e saque.
@@ -49,3 +47,5 @@ Um projeto em Java para simular operações bancárias básicas, como criação 
 1. Clone este repositório:
    ```bash
    git clone https://github.com/Rc692/JavaProjects.git
+
+

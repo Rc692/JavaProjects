@@ -147,14 +147,6 @@ Result: Approved
 
 ---
 
-## 📌 Status | Status
-
-🟢 **Em desenvolvimento / Estudos**
-
-🟢 **In development / Learning project**
-
----
-
 ## 👨‍💻 Sobre o Projeto | About the Project
 
 🇧🇷 Projeto desenvolvido para fins de **estudo e prática de programação em Java**.

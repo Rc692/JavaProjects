@@ -160,12 +160,6 @@ desligar()
 
 ---
 
-## 📌 Status | Status
-
-🟢 **Projeto de estudo | Study project**
-
----
-
 ## 👨‍💻 Projeto | Project
 
 🇧🇷 Parte da coleção de projetos Java para prática e aprendizado.

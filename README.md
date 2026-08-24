@@ -180,4 +180,4 @@ uma estrela e acompanhar sua evolução.
 
 ## 📄 License / Licença
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [License / Licença: GPL-3.0](LICENSE).

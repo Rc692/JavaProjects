@@ -1,18 +1,51 @@
-## Getting Started
+# 🏦 Bank Account
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A Java project to simulate basic banking operations, such as creating an account, depositing, and withdrawing.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🚀 Features
+- Create a bank account with a name and number
+- Check balance
+- Make deposits
+- Make withdrawals with balance validation
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+---
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 📂 Project Structure
+- `Conta.java` → Main class representing the bank account
+- `ContaTerminal.java` → Class for running the program and user interaction
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+---
 
-## Dependency Management
+## 🛠️ How to run
+1. Clone this repository:
+```bash
+git clone https://github.com/Rc692/JavaProjects.git
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
+# 🏦 Conta Banco
+
+Um projeto em Java para simular operações bancárias básicas, como criação de conta, depósito e saque.
+
+---
+
+## 🚀 Funcionalidades
+- Criar conta bancária com nome e número
+- Consultar saldo
+- Realizar depósitos
+- Efetuar saques com validação de saldo
+
+---
+
+## 📂 Estrutura do Projeto
+- `Conta.java` → Classe principal que representa a conta bancária
+- `ContaTerminal.java` → Classe com a execução do programa e interação com o usuário
+
+---
+
+## 🛠️ Como executar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/Rc692/JavaProjects.git

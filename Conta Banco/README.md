@@ -1,56 +1,115 @@
-# 🏦 Bank Account / Conta Banco
+# 🏦 Bank Account | Conta Banco
 
-A Java project to simulate basic banking operations, such as creating an account, depositing, and withdrawing.  
-Um projeto em Java para simular operações bancárias básicas, como criação de conta, depósito e saque.
+🇧🇷 Um projeto desenvolvido em **Java** para simular operações bancárias básicas, como criação de conta, consulta de saldo, depósitos e saques.
 
----
-
-## 🚀 Features / Funcionalidades
-- Create a bank account with a name and number  
-- Check balance  
-- Make deposits  
-- Make withdrawals with balance validation  
-
-- Criar conta bancária com nome e número  
-- Consultar saldo  
-- Realizar depósitos  
-- Efetuar saques com validação de saldo  
+🇺🇸 A **Java project** developed to simulate basic banking operations, such as account creation, balance checking, deposits, and withdrawals.
 
 ---
 
-## 📂 Project Structure / Estrutura do Projeto
-- `Conta.java` → Main class representing the bank account  
-- `ContaTerminal.java` → Class for running the program and user interaction  
+## 🚀 Funcionalidades | Features
 
-- `Conta.java` → Classe principal que representa a conta bancária  
-- `ContaTerminal.java` → Classe com a execução do programa e interação com o usuário  
+🇧🇷 O sistema permite:
 
----
+🇺🇸 The system allows you to:
 
-## 📖 Example of use / Exemplo de uso
-
-- Enter account number: 123
-- Enter client name: User
-- Enter initial balance: 500
-
-- Account created successfully!
-- Current balance: $500.00
-  
----
-
-- Digite o número da conta: 123
-- Digite o nome do cliente: Usuário
-- Digite o saldo inicial: 500
-
-- Conta criada com sucesso!
-- Saldo atual: R$ 500,00
+* 🏦 **Criar uma conta bancária com nome e número | Create a bank account with a name and number**
+* 💰 **Consultar saldo | Check balance**
+* 💵 **Realizar depósitos | Make deposits**
+* 💸 **Efetuar saques com validação de saldo | Make withdrawals with balance validation**
 
 ---
 
-## 📌 Notes / Observações
-- Developed in Java 17 (can be adapted to earlier versions).
-- For study and practice of object-oriented programming.
-- Projeto desenvolvido em Java 17 (pode ser adaptado para versões anteriores).
-- Uso apenas para fins de estudo e prática de programação orientada a objetos.
+## 📂 Estrutura do Projeto | Project Structure
+
+```text id="7v8j2k"
+BankAccount/
+├── src/
+│   ├── Conta.java
+│   └── ContaTerminal.java
+└── README.md
+```
+
+| Arquivo              | Descrição                                                  | File                 | Description                                                  |
+| -------------------- | ---------------------------------------------------------- | -------------------- | ------------------------------------------------------------ |
+| `Conta.java`         | Classe principal que representa a conta bancária           | `Conta.java`         | Main class representing the bank account                     |
+| `ContaTerminal.java` | Classe responsável pela execução e interação com o usuário | `ContaTerminal.java` | Class responsible for program execution and user interaction |
 
 ---
+
+## 📖 Exemplo de Uso | Example of Use
+
+### 🇧🇷 Português
+
+```text id="m7v3az"
+Digite o número da conta: 123
+Digite o nome do cliente: Usuário
+Digite o saldo inicial: 500
+
+Conta criada com sucesso!
+Saldo atual: R$ 500,00
+```
+
+### 🇺🇸 English
+
+```text id="p9x1cd"
+Enter account number: 123
+Enter client name: User
+Enter initial balance: 500
+
+Account created successfully!
+Current balance: $500.00
+```
+
+---
+
+## 🧠 Conceitos Praticados | Concepts Practiced
+
+🇧🇷 Durante o desenvolvimento do projeto, são praticados conceitos fundamentais de **Programação Orientada a Objetos (POO)** em Java.
+
+🇺🇸 During the development of this project, fundamental concepts of **Object-Oriented Programming (OOP)** in Java are practiced.
+
+* 📦 Classes e objetos | Classes and objects
+* 🔐 Encapsulamento | Encapsulation
+* 🏦 Atributos e métodos | Attributes and methods
+* 💰 Manipulação de valores | Value handling
+* ⌨️ Entrada de dados | Data input
+* 🔄 Estruturas de controle | Control structures
+
+---
+
+## 🛠️ Tecnologias | Technologies
+
+🇧🇷 Este projeto foi desenvolvido utilizando:
+
+🇺🇸 This project was developed using:
+
+* ☕ **Java 17**
+* 📦 **JDK 17**
+* 💻 **IDE de desenvolvimento Java | Java IDE**
+
+---
+
+## 📌 Observações | Notes
+
+🇧🇷
+
+* Projeto desenvolvido em **Java 17**.
+* Pode ser adaptado para versões anteriores do Java, dependendo dos recursos utilizados.
+* Desenvolvido exclusivamente para fins de **estudo e prática de Programação Orientada a Objetos**.
+
+🇺🇸
+
+* Developed using **Java 17**.
+* It can be adapted to earlier Java versions depending on the features used.
+* Developed exclusively for **Object-Oriented Programming study and practice**.
+
+---
+
+## 🎯 Objetivo | Objective
+
+🇧🇷 O objetivo deste projeto é praticar conceitos básicos de **Programação Orientada a Objetos em Java**, utilizando como exemplo uma conta bancária e suas principais operações.
+
+🇺🇸 The objective of this project is to practice basic **Object-Oriented Programming concepts in Java**, using a bank account and its main operations as an example.
+
+---
+
